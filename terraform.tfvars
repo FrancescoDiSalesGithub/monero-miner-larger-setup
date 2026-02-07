@@ -1,5 +1,5 @@
 
-tokenlinode = $TOKEN
+tokenlinode = "$TOKEN"
 
 
 
